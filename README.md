@@ -1,5 +1,5 @@
 # Conncurent File Transfer Over Sockets Via Multithreading
-
+The following program is written in C language and uses sockets to transfer file in multiple threads over different ports.
 ## sender.c
 The sender asks the user to input the number of the files and then displays the follwoing menu to select the files.
 Enter file to send: 
