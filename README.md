@@ -1,4 +1,4 @@
-#### Conncurent File Transfer Over Sockets Via Multithreading
+# Conncurent File Transfer Over Sockets Via Multithreading
 
 ## sender.c
 The sender asks the user to input the number of the files and then displays the follwoing menu to select the files.
